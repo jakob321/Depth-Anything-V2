@@ -1,0 +1,9 @@
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000000.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000000.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000100.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000100.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000200.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000200.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000300.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000300.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000400.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000400.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000500.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000500.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000600.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000600.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000700.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000700.PNG
+/root/deep_orb/datasets/midair/MidAir/PLE_training/spring/color_left/trajectory_5017/000800.JPEG /root/deep_orb/datasets/midair/MidAir/PLE_training/spring/depth/trajectory_5017/000800.PNG
